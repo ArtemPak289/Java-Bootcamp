@@ -22,3 +22,4 @@ include("Day02-OOP-Collections:exercise5")
 include("Day03-Tic-Tac-Toe-Web")
 
 include("Project01-Rogue-Console")
+include("Project02-Tic-Tac-Toe-Multiplayer")
