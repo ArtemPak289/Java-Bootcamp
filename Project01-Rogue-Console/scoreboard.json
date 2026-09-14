@@ -1,0 +1,14 @@
+[ {
+  "date" : "2026-09-11 22:24",
+  "treasures" : 98,
+  "levelReached" : 2,
+  "enemiesDefeated" : 2,
+  "foodConsumed" : 0,
+  "elixirsConsumed" : 0,
+  "scrollsRead" : 0,
+  "hitsDealt" : 6,
+  "hitsMissed" : 2,
+  "hitsTaken" : 7,
+  "stepsTaken" : 169,
+  "outcome" : "DEFEAT"
+} ]
