@@ -23,3 +23,4 @@ include("Day03-Tic-Tac-Toe-Web")
 
 include("Project01-Rogue-Console")
 include("Project02-Tic-Tac-Toe-Multiplayer")
+include("Day05-Tic-Tac-Toe-JWT")
